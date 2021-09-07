@@ -1,2 +1,3 @@
 -r development.txt
 django-userena>=1.2.0
+django>=2.2.18 # not directly required, pinned by Snyk to avoid a vulnerability

@@ -1,2 +1,4 @@
 -r development.txt
 django-userena>=1.2.0
+django>=2.2.26 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=9.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
